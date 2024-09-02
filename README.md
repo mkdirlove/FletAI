@@ -23,5 +23,5 @@ pip install -r requirements.txt
 3. Run the app:
 
     ```bash
-    flet run chatbot.py
+    flet run main.py
     ```
